@@ -28,3 +28,6 @@ markdown: kramdown
 highlighter: rouge
 
 exclude: [vendor]
+
+sass:
+  sass_dir: ./css
