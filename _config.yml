@@ -25,6 +25,6 @@ url: "http//alejandrogallo.github.io"
 # Build settings
 markdown: kramdown
 #theme: minima
-pygments: true
+highlighter: rouge
 
 exclude: [vendor]
